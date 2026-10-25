@@ -1,0 +1,112 @@
+{
+  "ambient": {
+    "sounds": [
+      "unkownjar:whisper1"
+    ]
+  },
+  "whisper": {
+    "sounds": [
+      "unkownjar:whisper1"
+    ]
+  },
+  "appear": {
+    "sounds": [
+      "unkownjar:appear"
+    ]
+  },
+  "vanish": {
+    "sounds": [
+      "unkownjar:teleport"
+    ]
+  },
+  "teleport": {
+    "sounds": [
+      "unkownjar:error_glitch"
+    ]
+  },
+  "chase": {
+    "sounds": [
+      "unkownjar:chase"
+    ]
+  },
+  "growl": {
+    "sounds": [
+      "unkownjar:growl1"
+    ]
+  },
+  "step": {
+    "sounds": [
+      "unkownjar:error_hit"
+    ]
+  },
+  "hurt": {
+    "sounds": [
+      "unkownjar:hurt"
+    ]
+  },
+  "death": {
+    "sounds": [
+      "unkownjar:hurt"
+    ]
+  },
+  "scream": {
+    "sounds": [
+      "unkownjar:scream"
+    ]
+  },
+  "doom": {
+    "sounds": [
+      "unkownjar:broken_hum"
+    ]
+  },
+  "disconnect": {
+    "sounds": [
+      "unkownjar:scream"
+    ]
+  },
+  "jumpscare": {
+    "sounds": [
+      "unkownjar:jumpscare"
+    ]
+  },
+  "error_static": {
+    "sounds": [
+      "unkownjar:error_static"
+    ]
+  },
+  "error_glitch": {
+    "sounds": [
+      "unkownjar:error_glitch"
+    ]
+  },
+  "error_scream": {
+    "sounds": [
+      "unkownjar:error_scream"
+    ]
+  },
+  "error_beep": {
+    "sounds": [
+      "unkownjar:error_beep"
+    ]
+  },
+  "error_hit": {
+    "sounds": [
+      "unkownjar:error_hit"
+    ]
+  },
+  "broken_hum": {
+    "sounds": [
+      "unkownjar:broken_hum"
+    ]
+  },
+  "broken_lash": {
+    "sounds": [
+      "unkownjar:broken_lash"
+    ]
+  },
+  "zero_scream": {
+    "sounds": [
+      "unkownjar:zero_scream"
+    ]
+  }
+}
